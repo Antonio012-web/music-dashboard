@@ -1,0 +1,13 @@
+/* Sidebar moderno */
+.sidebar {
+  background: linear-gradient(180deg, #1e1e2f, #111);
+  border-right: 1px solid #444;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.2);
+}
+.sidebar a {
+  transition: 0.3s ease;
+}
+.sidebar a:hover {
+  background-color: #292941;
+  color: #fff;
+}
